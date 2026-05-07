@@ -1,0 +1,15 @@
+# Configuration (contains secrets)
+.env
+
+# Runtime state
+.installed-version
+
+# Logs
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# Temp
+*.tmp
